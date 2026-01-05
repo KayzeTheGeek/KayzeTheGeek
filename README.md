@@ -224,6 +224,8 @@ A SaaS product for tattoo artists to manage bookings, availability, and payments
 * Built different modules with Nest.js and Next.js
 * Handled server infra on Digital Ocean and handled deployments
 
+🔗 [Live Site](https://tattooadmin.com)
+
 ---
 
 ### 🏫 RealEstate School NJ (Online Course Booking)
@@ -235,7 +237,7 @@ An e-learning platform for real estate agents to book and attend accredited trai
 
 **My Contributions:**
 
-* Built booking system
+* Built a booking system
 * Integrated Square payment API and invoicing
 * Created custom admin dashboard and reporting tools
 
@@ -248,8 +250,8 @@ An e-learning platform for real estate agents to book and attend accredited trai
 ---
 
 ## 🔗 Connect with Me  
-[![Connect](https://skillicons.dev/icons?i=gmail&theme=light)](mudsr3@gmail.com)
-[![Connect](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/mudsr-ali)
+[![Connect](https://skillicons.dev/icons?i=gmail&theme=light)](taiwotruth@gmail.com)
+[![Connect](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/kayzethegeek)
 
 ---
 
